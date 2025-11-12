@@ -1,5 +1,5 @@
 class Solution:
-    def findMaxForm(self, strs: List[str], m: int, n: int) -> int:
+    def findMaxForm(self, strs, m, n):
         dp=[[0]*(n+1) for _ in range(m+1)]
         for s in strs:
             zeroes,ones=s.count('0'),s.count('1')
