@@ -42,11 +42,7 @@ Python 3.x installed on your system.
 Installation
 Clone the repository:
 
-Bash
 
-git clone https://github.com/YourUsername/Practice-Python.git
-cd Practice-Python
-Install any required dependencies (This step is optional, but often necessary for specific projects):
 
 Bash
 
